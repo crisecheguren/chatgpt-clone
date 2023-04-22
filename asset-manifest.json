@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chatgpt-clone/static/css/main.643edc04.css",
+    "main.js": "/chatgpt-clone/static/js/main.ff6601f0.js",
+    "index.html": "/chatgpt-clone/index.html",
+    "main.643edc04.css.map": "/chatgpt-clone/static/css/main.643edc04.css.map",
+    "main.ff6601f0.js.map": "/chatgpt-clone/static/js/main.ff6601f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.643edc04.css",
+    "static/js/main.ff6601f0.js"
+  ]
+}
